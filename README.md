@@ -119,16 +119,17 @@
 </p>
 
 <h3 align="left">Support:</h3>
+<div>
 <p><a href="https://www.buymeacoffee.com/ankitjarwall"> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
             alt="ankitjarwall" /></a><a href="https://ko-fi.com/ankitjarwall"> <img align="left"
-            src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ankitjarwall" /></a></p><br><br>
+            src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ankitjarwall" /></a></p><br><br></div>
 
 <span><img align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitjarwall&show_icons=true&locale=en&layout=compact"
         alt="ankitjarwall" /></span>
 
-<span>&nbsp;<img align="center"
+<span>&nbsp;<img align="center" 
         src="https://github-readme-stats.vercel.app/api?username=ankitjarwall&show_icons=true&locale=en"
         alt="ankitjarwall" /></span>
 
