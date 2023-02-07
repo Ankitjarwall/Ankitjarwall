@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Jarwall</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h4 >Hello there, I'm Vishal Tiwari! I am currently completing my Bachelors in Computer Science (Lovely Professional University). And when I am not working, you'll find me listening to 90s songs.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjarwall&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjarwall" /> </p>
 
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ankitjarwalll@gmail.com**
-Hello there, I'm Vishal Tiwari! I am currently completing my Bachelors in Computer Science (Lovely Professional University). And when I am not working, you'll find me listening to 90s songs.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankitjarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitjarwall" height="30" width="40" /></a>
