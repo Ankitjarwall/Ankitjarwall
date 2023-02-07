@@ -148,8 +148,4 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjarwall&"
             alt="ankitjarwall" />
     </p>
-    <style>
-        .distance {
-            padding-left: 12px;
-        }
-    </style>
+    
