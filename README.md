@@ -124,7 +124,7 @@
             alt="ankitjarwall" /></a><a href="https://ko-fi.com/ankitjarwall"> <img align="left"
             src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ankitjarwall" /></a></p><br><br>
 
-<span><img align="right" width="330px"
+<span><img align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitjarwall&show_icons=true&locale=en&layout=compact"
         alt="ankitjarwall" /></span>
 
