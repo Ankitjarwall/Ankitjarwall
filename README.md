@@ -124,13 +124,13 @@
             alt="ankitjarwall" /></a><a href="https://ko-fi.com/ankitjarwall"> <img align="left"
             src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ankitjarwall" /></a></p><br><br>
 
-<p><img align="left" width="330px"
+<span><img align="left" width="330px"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitjarwall&show_icons=true&locale=en&layout=compact"
-        alt="ankitjarwall" /></p>
+        alt="ankitjarwall" /></span>
 
-<p>&nbsp;<img align="center"
+<span>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=ankitjarwall&show_icons=true&locale=en"
-        alt="ankitjarwall" /></p>
+        alt="ankitjarwall" /></span>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjarwall&" alt="ankitjarwall" />
 </p>
