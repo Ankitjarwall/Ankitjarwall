@@ -119,10 +119,9 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<div>
-<p><a href="https://www.buymeacoffee.com/ankitjarwall"> <img align="left"
+<a href="https://www.buymeacoffee.com/ankitjarwall"> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="ankitjarwall" /></a></p><br><br></div>
+            alt="ankitjarwall" /></a>
 
 
 
