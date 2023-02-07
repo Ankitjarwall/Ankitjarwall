@@ -122,8 +122,7 @@
 <div>
 <p><a href="https://www.buymeacoffee.com/ankitjarwall"> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="ankitjarwall" /></a><a href="https://ko-fi.com/ankitjarwall"> <img align="left"
-            src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ankitjarwall" /></a></p><br><br></div>
+            alt="ankitjarwall" /></a></p><br><br></div>
 
 
 
