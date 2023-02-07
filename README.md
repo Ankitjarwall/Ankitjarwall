@@ -1,8 +1,3 @@
- <style>
-        .distance {
-            padding-left: 12px;
-        }
-    </style>
     <h1 align="center">Hi 👋, I'm Ankit Jarwall</h1>
     <h3>Hello there, I'm Ankit Jarwall! I am currently completing my Bachelors in Computer Application (Lovely
         Professional
@@ -153,3 +148,8 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjarwall&"
             alt="ankitjarwall" />
     </p>
+    <style>
+        .distance {
+            padding-left: 12px;
+        }
+    </style>
