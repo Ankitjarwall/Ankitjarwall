@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Jarwall</h1>
+<h1 align="center">Hi 👋, I'm Ankit Meena</h1>
 <h3>Hello there, I'm Ankit Jarwall! I am currently completing my Bachelors in Computer Science (Lovely Professional
     University). And when I am not working, you'll find me listening to 90s songs.</h3>
 
