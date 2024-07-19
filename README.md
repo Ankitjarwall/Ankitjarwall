@@ -43,7 +43,6 @@
   <li>Exploring advanced React.js patterns and state management techniques.</li>
 </ul>
   
-<h3 align="left">Latest Blog Posts</h3>
 <br />
 <br />
 <br />
