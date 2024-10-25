@@ -23,7 +23,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <h2>Visitor Count</h2>
+  <p>Visitor Count<p>
   <img src="https://profile-counter.glitch.me/Ankitjarwall/count.svg" alt="Visitor Count" />
 </p>
 
@@ -69,8 +69,6 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-  ### Visitor count
-<img src="https://profile-counter.glitch.me/Ankitjarwall/count.svg" />
 <a href="https://www.buymeacoffee.com/ankitjarwall" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
