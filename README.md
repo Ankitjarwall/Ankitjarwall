@@ -23,9 +23,8 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ankitjarwall1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ankitjarwall" style="padding-right:20px;" />
+  <img src="https://profile-counter.glitch.me/Ankitjarwall/count.svg" alt="Visitor Count" />
 </p>
-
 ---
 
 
