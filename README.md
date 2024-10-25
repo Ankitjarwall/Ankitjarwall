@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Ankit! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/> ɪ'ᴍ Ankit! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
@@ -41,28 +41,27 @@
 
 
 <!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Connect With Me 🤝</h2>
 <div align="center">
   
 <a href="mailto:ankitjarwalll@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="ankitjarwalll@gmail.com" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://x.com/ankitjarwall" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="ankitjarwall" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/ankitjarwall" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="ankitjarwall" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.githubcom/ankitjarwall" target="_blank">
-<img src="./github.png" width=50 height=50 alt="ankitjarwall" style="margin-bottom: 5px;" />
+<a href="https://github.com/ankitjarwall" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/ankitjarwall/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
 <br/>
