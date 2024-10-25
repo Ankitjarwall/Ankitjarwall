@@ -67,11 +67,12 @@
 </div>
 <br/>
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/Ankitjarwall/count.svg" />
+
 
 <!--Buy me a coffee-->
 <div align="center">
+  ### Visitor count
+<img src="https://profile-counter.glitch.me/Ankitjarwall/count.svg" />
 <a href="https://www.buymeacoffee.com/ankitjarwall" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
