@@ -22,7 +22,7 @@
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<p align="left">
+<p align="left">###Visitor Count
   <img src="https://profile-counter.glitch.me/Ankitjarwall/count.svg" alt="Visitor Count" />
 </p>
 
