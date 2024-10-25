@@ -69,8 +69,7 @@
 </div>
 
   <!--Profile Count Badge-->
-<div>
-  <span>Visitor Count<span>
+<div align-"center">
   <img src="https://profile-counter.glitch.me/Ankitjarwall/count.svg" alt="Visitor Count" />
 </div>
 
