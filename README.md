@@ -21,11 +21,7 @@
 
 <!--End Intro-->
 
-<!--Profile Count Badge-->
-<p align="left">
-  <span>Visitor Count<span>
-  <img src="https://profile-counter.glitch.me/Ankitjarwall/count.svg" alt="Visitor Count" />
-</p>
+
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
@@ -70,6 +66,12 @@
 <!--Buy me a coffee-->
 <div align="center">
 <a href="https://www.buymeacoffee.com/ankitjarwall" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+  <!--Profile Count Badge-->
+<div>
+  <span>Visitor Count<span>
+  <img src="https://profile-counter.glitch.me/Ankitjarwall/count.svg" alt="Visitor Count" />
 </div>
 
 
