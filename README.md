@@ -17,7 +17,7 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
-- 💻 Visit my <a href="https://ankitjarwall.github.io/Ankit/" target="_blank">Portfolio</a> for more details about me.
+- 💻 Visit my <a href="https://ankitjarwall.github.io" target="_blank">Portfolio</a> for more details about me.
 
 <!--End Intro-->
 
